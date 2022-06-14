@@ -1,1 +1,1 @@
-# annihilation_1D
+# annihilation
